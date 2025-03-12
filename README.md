@@ -53,12 +53,12 @@ npm start
 ```
 👉 Open http://localhost:3000 in your browser.
 
-🎨 Tech Stack
+### 🎨 Tech Stack
 🖥 Frontend: React, Axios
 ⚡ Backend: Laravel 11, MySQL
 🔗 API: RESTful, JSON response
 
-🎯 Contributing
+### 🎯 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
-🔥 Selamat ngoding! 🚀 Let's build something amazing! 😎
+### 🔥 Selamat ngoding! 🚀 Let's build something amazing! 😎
