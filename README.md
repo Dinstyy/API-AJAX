@@ -54,9 +54,9 @@ npm start
 👉 Open http://localhost:3000 in your browser.
 
 ### 🎨 Tech Stack
-🖥 Frontend: React, Axios
-⚡ Backend: Laravel 11, MySQL
-🔗 API: RESTful, JSON response
+- 🔹 🖥 Frontend: React, Axios
+- 🔹 ⚡ Backend: Laravel 11, MySQL
+- 🔹 🔗 API: RESTful, JSON response
 
 ### 🎯 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
