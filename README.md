@@ -31,25 +31,26 @@ Make sure you have the following installed before running the project:
 ```sh
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
+```
 
-2️⃣ Backend Setup (Laravel)
-
+### 2️⃣ Backend Setup (Laravel)
+```sh
 cd backend
 composer install
 cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan serve
-
+```
 👉 Don't forget to configure your .env file (DB connection, etc.)
 👉 Start Laravel development server: http://127.0.0.1:8000
 
 3️⃣ Frontend Setup (React)
-
+```sh
 cd frontend
 npm install
 npm start
-
+```
 👉 Open http://localhost:3000 in your browser.
 
 🎨 Tech Stack
